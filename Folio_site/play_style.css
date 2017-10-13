@@ -1,0 +1,96 @@
+body {
+	background-color: black;
+}
+#title {
+	font-family: "Book Antiqua";
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+}
+.text {
+	font-family: "Book Antiqua";
+	text-align: left;
+	color: white;
+	margin-top: 50px;
+	line-height: 1.8;
+}
+#text {
+	font-family: "Book Antiqua";
+	text-align: left;
+	color: white;
+	margin-top: 50px;
+}
+#actions {
+	margin-top: 50px;
+}
+ul {
+	list-style-type: none;
+	text-align: center;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding: 0;
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+li {
+	float: center;
+}
+li button {
+	display: inline-block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 100%;
+	background-color: #828d9c; 
+	font-family: "Book Antiqua";
+	border: 2px solid black;
+	border-radius: 25px;
+}
+li button:hover {
+	background-color: white;
+}
+li a {
+	display: inline-block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 100%;
+	background-color: #7aa7c8; 
+	font-family: "Book Antiqua";
+	border: 2px solid black;
+	border-radius: 25px;
+}
+li a:hover {
+	background-color: white;
+}
+input[name="word"] {
+	border: 2px solid #828d9c;
+	display: inline-block;
+	font-family: "Book Antiqua";
+	font-size: 100%;
+	text-align: center;
+	width: 15%;
+}
+form[name="concordance"] {
+	text-align: center;
+}
+#enter {
+	display: inline-block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 100%;
+	background-color: #828d9c; 
+	font-family: "Book Antiqua";
+	border: 2px solid black;
+}
+#container {
+	text-align: center;
+}
+#lab {
+	color: white;
+	font-family: "Book Antiqua";
+}
