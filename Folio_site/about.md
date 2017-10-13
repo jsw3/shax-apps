@@ -1,1 +1,1 @@
-Files for creating html pages for each play, along with CSS and Javascript to create functionality.
+Files for creating html pages for each play, along with CSS and Javascript to create look and functionality.
