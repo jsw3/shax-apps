@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Folio>
+	<play playTitle="Shakespeare's First Folio">
+		<date>1623</date>
+		<words>830,568</words>
+		<lex_var>5.06 %</lex_var>
+		<fic_non>35.46 %</fic_non>
+	</play>
+    <play playTitle="The Tempest">
+        <date>1612</date>
+        <words>17709</words>
+        <lex_var>21.97 %</lex_var>
+        <fic_non>16.07 %</fic_non>
+    </play>
+    <play playTitle="The Two Gentlemen of Verona">
+        <date>1593</date>
+        <words>18366</words>
+        <lex_var>17.58 %</lex_var>
+        <fic_non>14.31 %</fic_non>
+    </play>
+    <play playTitle="The Merry Wiues of Windsor">
+        <date>1601</date>
+        <words>22889</words>
+        <lex_var>17.02 %</lex_var>
+        <fic_non>20.37 %</fic_non>
+    </play>
+    <play playTitle="Measvre, For Measure">
+        <date>1605</date>
+        <words>22986</words>
+        <lex_var>17.33 %</lex_var>
+        <fic_non>13.72 %</fic_non>
+    </play>
+    <play playTitle="The Comedie of Errors">
+        <date>1593</date>
+        <words>15769</words>
+        <lex_var>19.08 %</lex_var>
+        <fic_non>12.75 %</fic_non>
+    </play>
+    <play playTitle="Much adoe about Nothing">
+        <date>1599</date>
+        <words>22273</words>
+        <lex_var>16.06 %</lex_var>
+        <fic_non>13.13 %</fic_non>
+    </play>
+    <play playTitle="Loues Labour's lost">
+        <date>1595</date>
+        <words>22579</words>
+        <lex_var>20.11 %</lex_var>
+        <fic_non>16.25 %</fic_non>
+    </play>
+    <play playTitle="A Midsommer Nights Dreame">
+        <date>1596</date>
+        <words>17104</words>
+        <lex_var>21.09 %</lex_var>
+        <fic_non>13.19 %</fic_non>
+    </play>
+    <play playTitle="The Merchant of Venice">
+        <date>1597</date>
+        <words>22153</words>
+        <lex_var>17.4 %</lex_var>
+        <fic_non>14.49 %</fic_non>
+    </play>
+    <play playTitle="As you Like it">
+        <date>1599</date>
+        <words>22823</words>
+        <lex_var>17.22 %</lex_var>
+        <fic_non>13.4 %</fic_non>
+    </play>
+    <play playTitle="The Taming of the Shrew">
+        <date>1594</date>
+        <words>22147</words>
+        <lex_var>17.78 %</lex_var>
+        <fic_non>15.5 %</fic_non>
+    </play>
+    <play playTitle="All's Well, that Ends Well">
+        <date>1603</date>
+        <words>24525</words>
+        <lex_var>17.18 %</lex_var>
+        <fic_non>15.35 %</fic_non>
+    </play>
+    <play playTitle="Twelfe Night, Or what you will">
+        <date>1602</date>
+        <words>21123</words>
+        <lex_var>17.4 %</lex_var>
+        <fic_non>15.94 %</fic_non>
+    </play>
+    <play playTitle="The Winters Tale">
+        <date>1611</date>
+        <words>26365</words>
+        <lex_var>17.76 %</lex_var>
+        <fic_non>16.6 %</fic_non>
+    </play>
+    <play playTitle="The life and death of King John">
+        <date>1597</date>
+        <words>21640</words>
+        <lex_var>19.89 %</lex_var>
+        <fic_non>13.94 %</fic_non>
+    </play>
+    <play playTitle="The life and death of King Richard the Second">
+        <date>1596</date>
+        <words>22777</words>
+        <lex_var>19.68 %</lex_var>
+        <fic_non>13.52 %</fic_non>
+    </play>
+    <play playTitle="The First Part of Henry the Fourth">
+        <date>1596</date>
+        <words>25641</words>
+        <lex_var>18.41 %</lex_var>
+        <fic_non>15.94 %</fic_non>
+    </play>
+    <play playTitle="The Second Part of Henry the Fourth">
+        <date>1598</date>
+        <words>27190</words>
+        <lex_var>18.45 %</lex_var>
+        <fic_non>17.48 %</fic_non>
+    </play>
+    <play playTitle="The Life of Henry the Fift">
+        <date>1599</date>
+        <words>27203</words>
+        <lex_var>20.09 %</lex_var>
+        <fic_non>18.74 %</fic_non>
+    </play>
+    <play playTitle="The first Part of Henry the Sixt">
+        <date>1592</date>
+        <words>22542</words>
+        <lex_var>20.89 %</lex_var>
+        <fic_non>14.47 %</fic_non>
+    </play>
+    <play playTitle="The second Part of Henry the Sixt">
+        <date>1591</date>
+        <words>26539</words>
+        <lex_var>18.74 %</lex_var>
+        <fic_non>14.77 %</fic_non>
+    </play>
+    <play playTitle="The third Part of Henry the Sixt">
+        <date>1591</date>
+        <words>25488</words>
+        <lex_var>17.38 %</lex_var>
+        <fic_non>14.24 %</fic_non>
+    </play>
+    <play playTitle="The Tragedie of Richard the Third">
+        <date>1593</date>
+        <words>30558</words>
+        <lex_var>16.59 %</lex_var>
+        <fic_non>14.87 %</fic_non>
+    </play>
+    <play playTitle="The Famous History of the Life of King Henry the Eight">
+        <date>1611</date>
+        <words>25966</words>
+        <lex_var>17.4 %</lex_var>
+        <fic_non>12.93 %</fic_non>
+    </play>
+    <play playTitle="The Tragedie of Coriolanus">
+        <date>1608</date>
+        <words>29341</words>
+        <lex_var>17.05 %</lex_var>
+        <fic_non>14.28 %</fic_non>
+    </play>
+    <play playTitle="The Tragedie of Titus Andronicus">
+        <date>1594</date>
+        <words>21411</words>
+        <lex_var>19.07 %</lex_var>
+        <fic_non>13.94 %</fic_non>
+    </play>
+    <play playTitle="The Tragedie of Romeo and Juliet">
+        <date>1595</date>
+        <words>25490</words>
+        <lex_var>17.27 %</lex_var>
+        <fic_non>15.12 %</fic_non>
+    </play>
+    <play playTitle="The Life of Timon of Athens">
+        <date>1608</date>
+        <words>19482</words>
+        <lex_var>20.38 %</lex_var>
+        <fic_non>13.7 %</fic_non>
+    </play>
+    <play playTitle="The Tragedie of Julius Caesar">
+        <date>1599</date>
+        <words>20730</words>
+        <lex_var>17.16 %</lex_var>
+        <fic_non>11.82 %</fic_non>
+    </play>
+    <play playTitle="The Tragedie of Macbeth">
+        <date>1606</date>
+        <words>18168</words>
+        <lex_var>22.1 %</lex_var>
+        <fic_non>15.46 %</fic_non>
+    </play>
+    <play playTitle="The Tragedie of Hamlet">
+        <date>1602</date>
+        <words>30152</words>
+        <lex_var>18.06 %</lex_var>
+        <fic_non>16.45 %</fic_non>
+    </play>
+    <play playTitle="The Tragedie of King Lear">
+        <date>1606</date>
+        <words>25233</words>
+        <lex_var>18.45 %</lex_var>
+        <fic_non>15.71 %</fic_non>
+    </play>
+    <play playTitle="The Tragedie of Othello, the Moore of Venice">
+        <date>1605</date>
+        <words>28074</words>
+        <lex_var>16.2 %</lex_var>
+        <fic_non>15.3 %</fic_non>
+    </play>
+    <play playTitle="The Tragedie of Anthonie, and Cleopatra">
+        <date>1607</date>
+        <words>26340</words>
+        <lex_var>18.1 %</lex_var>
+        <fic_non>15.87 %</fic_non>
+    </play>
+    <play playTitle="The Tragedie of Cymbeline">
+        <date>1609</date>
+        <words>29032</words>
+        <lex_var>17.56 %</lex_var>
+        <fic_non>15.86 %</fic_non>
+    </play>
+</Folio>
