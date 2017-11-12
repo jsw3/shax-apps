@@ -112,5 +112,6 @@ def preface():
     file.write(no_act_grammar('Prefatory Matter', text))
     file.close
 
-#preface()
-process()
+if __name__ == '__main__':
+    peface()
+    process()
