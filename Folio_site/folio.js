@@ -108,7 +108,8 @@ function setup() {
 		}
 		
 		// now process the output for display; first display number of results
-		var results = "Total Results: "+output.length.toString()+ending;
+		var w = word;
+		var results = "Word is: "+w+"<br><br>Total Results: "+output.length.toString()+ending;
 		
 		// output is an array of arrays; process each array separately and add divider
 		for (var j = 0; j < output.length; j++) {
@@ -145,17 +146,19 @@ function setup() {
 		if (titles[i] == $("title").innerHTML) index = i; 
 	}
 	
-	if ($("previous")) {
+	if (titles[index-1]) {
 		$("previous").addEventListener("click", function() {
 			location = titles[index-1]+".html";
 		});
-	}
+	} else {
+		$("previous").stytle.display = "none";
 	
-	if ($("next")) {
+	if (titles[index+1]) {
 		$("next").addEventListener("click", function() {
 			location = titles[index+1]+".html";
 		});
-	}
+	} else {
+		$("next").style.display = "none";
 	
 	$("home").addEventListener("click", function() {
 		location = "Folio_Homepage.html";
