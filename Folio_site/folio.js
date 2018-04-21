@@ -146,19 +146,23 @@ function setup() {
 		if (titles[i] == $("title").innerHTML) index = i; 
 	}
 	
-	if (titles[index-1]) {
-		$("previous").addEventListener("click", function() {
-			location = titles[index-1]+".html";
-		});
-	} else {
-		$("previous").stytle.display = "none";
+	if ($("previous")) {
+		if (titles[index-1]) {
+			$("previous").addEventListener("click", function() {
+				location = titles[index-1]+".html";
+			});
+		} else {
+			$("previous").stytle.display = "none";
+		}
 	
-	if (titles[index+1]) {
-		$("next").addEventListener("click", function() {
-			location = titles[index+1]+".html";
-		});
-	} else {
-		$("next").style.display = "none";
+	if ($("next")) {
+		if (titles[index+1]) {
+			$("next").addEventListener("click", function() {
+				location = titles[index+1]+".html";
+			});
+		} else {
+			$("next").style.display = "none";
+		}
 	
 	$("home").addEventListener("click", function() {
 		location = "Folio_Homepage.html";
